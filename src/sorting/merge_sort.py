@@ -69,4 +69,4 @@ class MergeSort(SortInterface):
         - sub_array (Optional[List[int]]): The sublist of integers to be highlighted.
         """
         from utils import display_bar_chart
-        display_bar_chart(array, sub_array, is_merge=True, is_initial=False)s
+        display_bar_chart(array, sub_array, is_merge=True, is_initial=False)
