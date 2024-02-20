@@ -2,7 +2,6 @@ import constants as c
 import streamlit as st
 import random
 from src.sorting.sort_factory import SortFactory
-from src.searching.search_factory import SearchFactory
 import time
 
 def display_all_sorting_algorithms():
